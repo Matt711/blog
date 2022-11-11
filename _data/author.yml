@@ -1,0 +1,23 @@
+name: Matthew Murray
+dp: 
+description: "
+  <p>
+    Developed by Matthew Murray from this theme <a href='https://github.com/Matt711' target='_blank'>Theme</a>
+  </p>
+  <br/>
+  <p>
+    You should follow him on <a href='https://github.com/Matt711' target='_blank'>Github</a>
+  </P>
+"
+email: matthewmurray711@github.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/murray-matthew/
+  - title: github
+    url: https://github.com/Matt711
+  - title: twitter
+    url: https://twitter.com/dseematt
+  # - title: dev
+  #   url: https://dev.to/sharadcodes
+  - title: email
+    url: mailto:matthewmurray711@gmail.com
