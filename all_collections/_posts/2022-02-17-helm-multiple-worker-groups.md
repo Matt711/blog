@@ -2,7 +2,7 @@
 layout: post
 title: How to run different worker types with the Dask Helm Chart
 author: Matthew Murray
-categories: [Kubernetes, Helm]
+categories: [Dask, Kubernetes, Helm]
 # theme: twitter
 ---
 
