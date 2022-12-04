@@ -2,7 +2,7 @@
 layout: post
 title: How to run different worker types with the Dask Helm Chart
 author: Matthew Murray
-categories: [Dask, Kubernetes, Helm]
+categories: [Dask, Kubernetes, Helm, Python, Parallel Computing]
 # theme: twitter
 ---
 
